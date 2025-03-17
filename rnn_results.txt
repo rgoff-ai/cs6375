@@ -1,0 +1,96 @@
+RNN Hidden Dimension Results Summary
+==================================
+
+Hidden Dimension: 50
+-----------------
+Training Accuracy by Epoch:
+  Epoch 1: 0.4740
+  Epoch 2: 0.5081
+  Epoch 3: 0.5189
+  Epoch 4: 0.5271
+  Epoch 5: 0.5330
+
+Validation Accuracy by Epoch:
+  Epoch 1: 0.5487
+  Epoch 2: 0.5437
+  Epoch 3: 0.5312
+  Epoch 4: 0.5437
+  Epoch 5: 0.5625
+
+Test Accuracy: 0.0088
+
+Hidden Dimension: 100
+-----------------
+Training Accuracy by Epoch:
+  Epoch 1: 0.4527
+  Epoch 2: 0.4834
+  Epoch 3: 0.4818
+  Epoch 4: 0.4009
+  Epoch 5: 0.4646
+
+Validation Accuracy by Epoch:
+  Epoch 1: 0.5162
+  Epoch 2: 0.5162
+  Epoch 3: 0.4750
+  Epoch 4: 0.4550
+  Epoch 5: 0.4637
+
+Test Accuracy: 0.0050
+
+Hidden Dimension: 150
+-----------------
+Training Accuracy by Epoch:
+  Epoch 1: 0.4461
+  Epoch 2: 0.5064
+  Epoch 3: 0.4820
+  Epoch 4: 0.4615
+  Epoch 5: 0.4833
+
+Validation Accuracy by Epoch:
+  Epoch 1: 0.5500
+  Epoch 2: 0.5150
+  Epoch 3: 0.4637
+  Epoch 4: 0.5088
+  Epoch 5: 0.4125
+
+Test Accuracy: 0.1050
+
+Hidden Dimension: 200
+-----------------
+Training Accuracy by Epoch:
+  Epoch 1: 0.4316
+  Epoch 2: 0.4666
+  Epoch 3: 0.4406
+  Epoch 4: 0.4420
+  Epoch 5: 0.4519
+
+Validation Accuracy by Epoch:
+  Epoch 1: 0.4425
+  Epoch 2: 0.4537
+  Epoch 3: 0.4625
+  Epoch 4: 0.4925
+  Epoch 5: 0.4788
+
+Test Accuracy: 0.0912
+
+Hidden Dimension: 250
+-----------------
+Training Accuracy by Epoch:
+  Epoch 1: 0.4534
+  Epoch 2: 0.4741
+  Epoch 3: 0.4567
+  Epoch 4: 0.4776
+  Epoch 5: 0.4826
+
+Validation Accuracy by Epoch:
+  Epoch 1: 0.4437
+  Epoch 2: 0.4325
+  Epoch 3: 0.5038
+  Epoch 4: 0.4963
+  Epoch 5: 0.5200
+
+Test Accuracy: 0.0338
+
+Best model based on final validation accuracy: Hidden Dimension = 50
+  Final validation accuracy: 0.5625
+  Test accuracy: 0.0088
